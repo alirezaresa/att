@@ -1,2 +1,2 @@
 print(0)
-print(8)
+print(880)
