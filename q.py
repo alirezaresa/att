@@ -1,2 +1,2 @@
 print(0)
-print(883)
+print(8)
